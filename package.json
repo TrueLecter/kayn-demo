@@ -1,0 +1,14 @@
+{
+  "name": "game-balancer-lol",
+  "version": "0.0.1",
+  "description": "Team balancer by party rating",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "kayn": "^0.9.8"
+  }
+}
